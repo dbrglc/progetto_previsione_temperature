@@ -1,2 +1,2 @@
-# progetto_previsione_temperature
-Project for the forecasting of the temperature
+# Forecasting temperature with NN
+Deep Learning project for Mater Degree
