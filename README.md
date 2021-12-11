@@ -1,2 +1,2 @@
 # Forecasting temperature with NN
-Deep Learning project for Mater Degree
+Deep Learning project for Master Degree
